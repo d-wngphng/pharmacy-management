@@ -1,0 +1,2 @@
+# pharmacy-management
+ The pharmacy warehouse management system is a comprehensive software solution designed to optimize and automate pharmaceutical warehouse management activities. It provides tools to closely monitor the quantity, location, and expiry date of each drug, and alert for out-of-stock or expired products, helping pharmacies operate efficiently, minimize errors, and ensure timely drug supply.
